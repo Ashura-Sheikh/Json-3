@@ -1,0 +1,16 @@
+{
+  "people": [
+    {
+      "name": "Ashura Sheikh",
+      "No": "1234",
+      "mail": ["ashurasheikh@gmail.com"],
+      "has_license": false
+    },
+    {
+      "name": "Sahil Sheikh",
+      "No": "7398",
+      "mail": "null",
+      "has_license": true
+    }
+  ]
+}
